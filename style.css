@@ -11,7 +11,10 @@ body{
     margin-top: 25px;
 }
 h3{
-  color:chartreuse;
+  color:orangered;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight:30px;
+  font-size:30px;
 }
 h1{
     color:whitesmoke;
@@ -31,4 +34,7 @@ footer{
     bottom: 0;
     width: 100%;
     position: fixed;
+   }
+   body{
+       padding-bottom: 40px;
    }
